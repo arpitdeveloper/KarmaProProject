@@ -16,3 +16,9 @@ App to chat with unknown people within the range 10 miles of your gps location
 - User Search Screen. Basic Search by username with result display.
 
 Ideas for app were inspired by "Sarahah" app.
+
+
+This is chat applicaion.We have used firebase as a backend.Improve your friendship by discovering your strengths and areas for improvement.
+With this app user can send anonymous text messages to any other user. All you have to do is create a profile using an username. 
+
+You can talk with one of your friends or with someone you don’t know at all. The only thing you’ll see about that other person is his or her name and avatar.It also has blocking feature too.
