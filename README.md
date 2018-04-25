@@ -11,7 +11,7 @@ App to chat with unknown people within the range 10 miles of your gps location
 
 - Messenger part of app that allows you to receive anonymous texts. Texts can be replied to only if user has Karmahhpro version, not Karmahh version. Also wanting to implement a way users can reveal themselves in Karmahhpro if they chose to. Texts only last 24 hours unless buying pro version of app.
 
--Profile screens. What others see and what you see for yourself (See pictures labels "overall-rating-profile and user-side-profile"). Profile screen will depend on whether you are viewing your own profile or if someone else is.
+- Profile screens. What others see and what you see for yourself (See pictures labels "overall-rating-profile and user-side-profile"). Profile screen will depend on whether you are viewing your own profile or if someone else is.
 
 - User Search Screen. Basic Search by username with result display.
 
